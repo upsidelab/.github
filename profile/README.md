@@ -11,6 +11,7 @@ On daily basis we work together with Clients from all around the globe helping t
 	<a href="https://github.com/spree"><img src="https://github.com/upsidelab/.github/blob/main/assets/icons/spree.png" alt="Spree Logo"></a>
 	<a href="https://github.com/vuestorefront"><img src="https://github.com/upsidelab/.github/blob/main/assets/icons/vuestorefront.png" alt="VueStorefront Logo"></a>
 	<a href="https://github.com/vuejs"><img src="https://github.com/upsidelab/.github/blob/main/assets/icons/vue.png" alt="VueJS Logo"></a>
+	<a href="https://github.com/rails"><img src="https://github.com/upsidelab/.github/blob/main/assets/icons/ruby.png" alt="Ruby Logo"></a>
 	<a href="https://github.com/rails"><img src="https://github.com/upsidelab/.github/blob/main/assets/icons/rails.png" alt="Rails Logo"></a>
 </p>
 
