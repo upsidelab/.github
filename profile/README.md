@@ -1,8 +1,14 @@
-<h1 align="center">Upsidelab</h1>
+<h1 align="center">Welcome to Upside's community!</h1>
 
-<a href="https://upsidelab.io" title="Go to Upsidelab's website">
-	<img src="https://github.com/upsidelab/.github/blob/main/assets/banner.png" alt="Upsidelab - Accelerating Digital commerce. We're #TeamUpside - a bunch of doers with a passion for technology, quality, and teamwork. On daily basis we work together with clients from all around the globe helping them to shape and develop digital products.">
+<a href="https://upsidelab.io" title="Go to Upside's website">
+	<img src="https://github.com/upsidelab/.github/blob/main/assets/banner.png" alt="Upside - Accelerating Digital commerce. We're #TeamUpside - a bunch of doers with a passion for technology, quality, and teamwork. On daily basis we work together with clients from all around the globe helping them to shape and develop digital products.">
 </a>
+
+## Tech Community Commitment at Upside
+
+At Upside, we're not just about code - we're about the technology community. We dive deep into the technology landscape, contributing to the tools we rely on to build and operate robust technology solutions that power our clients' successes.
+
+But that's not all — we also champion open source by maintaining and enhancing our own projects as well as contributing to existing ones.
 
 <p align="center">
 	<a href="https://github.com/spree"><img src="https://github.com/upsidelab/.github/blob/main/assets/icons/spree.png" alt="Spree Logo"></a>
@@ -12,39 +18,36 @@
 	<a href="https://github.com/rails"><img src="https://github.com/upsidelab/.github/blob/main/assets/icons/rails.png" alt="Rails Logo"></a>
 </p>
 
-We contribute to the tools we rely on to build and run innovative technology solutions supporting our businesses' growth, while also maintaining our own open source projects :octocat:
+### Open Source engagement:
 
-- [Spree Commerce](https://github.com/spree/spree) - An open-source multi-language/multi-currency/multi-store eCommerce platform
+- [Spree Commerce](https://github.com/spree/spree) - An open-source multi-language/multi-currency/multi-store eCommerce platform 
 - [Spree CLI](https://github.com/upsidelab/spree_cli_internal) - A command line tool for bootstraping Spree with modern storefront integrations
-- [Vue Storefront](https://github.com/vuestorefront/spree) - An integration for [Spree](https://github.com/spree/spree) commerce built on top of [Vue Storefront](https://github.com/vuestorefront/vue-storefront/)
-
-### We're all things Spree
-
-We've joined the Spree Commerce core team as the main steward. We take the responsibility of driving the roadmap and development of the open source platform.
-
-**Our goal?** Improve the developer experience and make Spree easier to cater for modern business needs while keeping **execution of the roadmap** 🎯 and **the community** 🧡 in mind.
-
-<!-- TODO: Stay updated on our mission to improve the Spree platform with [Spree Roadmap]() ⚡️ -->
-<br />
-
-Be a part of Spree community now! [Join us](https://github.com/spree) ⭐️
+- [Alokai (previously Vue Storefront)](https://github.com/vuestorefront/spree) - An integration for Spree Commerce
 
 <br />
 <br />
 
-> Our team consist of expert developers, testers and designers fluent in e-commerce. If you need help in your implementation, reach out to us: sales@upsidelab.io
+<p align="center">Be a part of Spree community now!&nbsp;<a href="https://github.com/spree">Join us ⭐️</a></p>
+
+<br />
+
+## Why Upside?
+
+**Skilled Team**: Our team of expert developers, testers, and designers are fluent in the art of digital commerce and data platforms. We speak fluent tech, tackling complex challenges with innovative and reliable solutions.
+
+**Technology Driven**: Technology isn't just a tool — it's our passion. We're dedicated to pushing the limits of what technology can do, making significant contributions to the tech community and beyond.
 
 <br />
 <br />
-<br />
 
-<p align="center">Follow us</p>
+**Need expert guidance on your implementation?** Our doors (and inboxes) are always open. **Contact us** at sales@upsidelab.io.
+
+---
+
+<p align="center"><sub>Psst! 🤫 We're hiring talented software engineers to <a href="https://upside.recruitee.com?source=github">join our team</a> 🧡</sub></p>
+
 <p align="center">
 	<a href="https://www.linkedin.com/company/upside-lab/"><img src="https://img.shields.io/static/v1?&color=000000&style=flat&logoColor=white&label=&message=LinkedIn&logo=linkedin" /></a>
 	<a href="https://twitter.com/upsidelab"><img src="https://img.shields.io/static/v1?&color=000000&style=flat&logoColor=white&label=&message=Twitter&logo=twitter" /></a>
 	<a href="https://clutch.co/profile/upside"><img src="https://img.shields.io/static/v1?&color=000000&style=flat&logoColor=white&label=&message=Clutch" /></a>
 </p>
-
----
-
-<p align="center"><sub>Psst! 🤫 We're hiring talented software engineers to <a href="https://upside.recruitee.com?source=github">join our team</a> 🧡</sub></p>
