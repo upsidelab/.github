@@ -1,11 +1,8 @@
-![Upside - Accelerating digital commerce](https://github.com/upsidelab/.github/blob/main/assets/banner.jpg)
+<h1 align="center">Upsidelab</h1>
 
-## Welcome to our community 👋
-
-We're **#TeamUpside** - a bunch of doers with a passion for technology, quality, and teamwork.
-On daily basis we work together with Clients from all around the globe helping them to shape and develop digital products 🚀
-
-### 🌱 Contributing to the ecosystem
+<a href="https://upsidelab.io" title="Go to Upsidelab's website">
+	<img src="https://github.com/upsidelab/.github/blob/main/assets/banner.png" alt="Upsidelab - Accelerating Digital commerce. We're #TeamUpside - a bunch of doers with a passion for technology, quality, and teamwork. On daily basis we work together with clients from all around the globe helping them to shape and develop digital products.">
+</a>
 
 <p align="center">
 	<a href="https://github.com/spree"><img src="https://github.com/upsidelab/.github/blob/main/assets/icons/spree.png" alt="Spree Logo"></a>
@@ -43,9 +40,9 @@ Be a part of Spree community now! [Join us](https://github.com/spree) ⭐️
 
 <p align="center">Follow us</p>
 <p align="center">
-	<a href="https://www.linkedin.com/company/upside-lab/"><img src="https://img.shields.io/static/v1?&color=ff6f26&style=flat&logoColor=white&label=&message=LinkedIn&logo=linkedin" /></a>
-	<a href="https://twitter.com/upsidelab"><img src="https://img.shields.io/static/v1?&color=ff6f26&style=flat&logoColor=white&label=&message=Twitter&logo=twitter" /></a>
-	<a href="https://clutch.co/profile/upside"><img src="https://img.shields.io/static/v1?&color=ff6f26&style=flat&logoColor=white&label=&message=Clutch" /></a>
+	<a href="https://www.linkedin.com/company/upside-lab/"><img src="https://img.shields.io/static/v1?&color=000000&style=flat&logoColor=white&label=&message=LinkedIn&logo=linkedin" /></a>
+	<a href="https://twitter.com/upsidelab"><img src="https://img.shields.io/static/v1?&color=000000&style=flat&logoColor=white&label=&message=Twitter&logo=twitter" /></a>
+	<a href="https://clutch.co/profile/upside"><img src="https://img.shields.io/static/v1?&color=000000&style=flat&logoColor=white&label=&message=Clutch" /></a>
 </p>
 
 ---
