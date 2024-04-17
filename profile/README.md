@@ -26,9 +26,13 @@ But that's not all — we also champion open source by maintaining and enhancing
 
 ## Why Upside?
 
-**Skilled Team**: Our team of expert developers, testers, and designers are fluent in the art of digital commerce and data platforms. We speak fluent tech, tackling complex challenges with innovative and reliable solutions.
+### Skilled Team
 
-**Technology Driven**: Technology isn't just a tool — it's our passion. We're dedicated to pushing the limits of what technology can do, making significant contributions to the tech community and beyond.
+Our team of expert developers, testers, and designers are fluent in the art of digital commerce and data platforms. We speak fluent tech, tackling complex challenges with innovative and reliable solutions.
+
+### Technology Driven
+
+Technology isn't just a tool — it's our passion. We're dedicated to pushing the limits of what technology can do, making significant contributions to the tech community and beyond.
 
 💡 Need expert guidance on your implementation? Our doors (and inboxes) are always open. **Contact us at sales@upsidelab.io.**
 
