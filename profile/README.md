@@ -24,23 +24,13 @@ But that's not all — we also champion open source by maintaining and enhancing
 - [Spree CLI](https://github.com/upsidelab/spree_cli_internal) - A command line tool for bootstraping Spree with modern storefront integrations
 - [Alokai (previously Vue Storefront)](https://github.com/vuestorefront/spree) - An integration for Spree Commerce
 
-<br />
-<br />
-
-<p align="center">Be a part of Spree community now!&nbsp;<a href="https://github.com/spree">Join us ⭐️</a></p>
-
-<br />
-
 ## Why Upside?
 
 **Skilled Team**: Our team of expert developers, testers, and designers are fluent in the art of digital commerce and data platforms. We speak fluent tech, tackling complex challenges with innovative and reliable solutions.
 
 **Technology Driven**: Technology isn't just a tool — it's our passion. We're dedicated to pushing the limits of what technology can do, making significant contributions to the tech community and beyond.
 
-<br />
-<br />
-
-**Need expert guidance on your implementation?** Our doors (and inboxes) are always open. **Contact us** at sales@upsidelab.io.
+💡 Need expert guidance on your implementation? Our doors (and inboxes) are always open. **Contact us at sales@upsidelab.io.**
 
 ---
 
