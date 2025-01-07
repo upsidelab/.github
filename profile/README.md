@@ -20,8 +20,9 @@ But that's not all — we also champion open source by maintaining and enhancing
 
 ### Open Source engagement:
 
-- [Spree Commerce](https://github.com/spree/spree) - An open-source multi-language/multi-currency/multi-store eCommerce platform 
-- [Spree CLI](https://github.com/upsidelab/spree_cli_internal) - A command line tool for bootstraping Spree with modern storefront integrations
+- [Enthusiast](https://github.com/upsidelab/enthusiast) - An open-source AI agent for e-commerce
+- [Spree Commerce](https://github.com/spree/spree) - An open-source multi-language/multi-currency/multi-store e-commerce platform 
+- [Spree CLI](https://github.com/upsidelab/spree_cli_internal) - A command line tool for bootstrapping Spree with modern storefront integrations
 - [Alokai (previously Vue Storefront)](https://github.com/vuestorefront/spree) - An integration for Spree Commerce
 
 ## Why Upside?
